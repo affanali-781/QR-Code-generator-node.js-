@@ -20,9 +20,13 @@ Follow these steps in your terminal:
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/your-username/QR-Code-generator-node.js-.git
+git clone https://github.com/affanali-781/QR-Code-generator-node.js-.git
 cd QR-Code-generator-node.js-
 
 # Step 2: Initialize the project and install dependencies
 npm init -y
 npm install inquirer qr-image
+
+# Step 3: Run the code
+node index.js
+
